@@ -1,0 +1,40 @@
+{
+  "dependencies": {},
+  "name": "binary-com-longcode",
+  "description": "Convert Binary.com's shorcode to longcode",
+  "version": "0.0.4",
+  "main": "dist/main.js",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.3.3",
+    "chai": "^3.5.0",
+    "esprima-fb": "^15001.1001.0-dev-harmony-fb",
+    "estree-utils": "^0.1.1",
+    "gettext-loader2": "^0.2.3",
+    "json-loader": "^0.5.4",
+    "mocha": "^3.2.0",
+    "moment": "^2.18.1",
+    "po-loader": "^0.3.1",
+    "webpack": "^2.3.3",
+    "webpack-shell-plugin": "^0.5.0"
+  },
+  "scripts": {
+    "test": "webpack --config tests/webpack-test.config.js",
+    "build": "webpack",
+    "build-prod": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binary-com/shortcode_processing.git"
+  },
+  "keywords": [
+    "shortcode-to-longcode"
+  ],
+  "author": "Apoorv Joshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binary-com/shortcode_processing/issues"
+  },
+  "homepage": "https://github.com/binary-com/shortcode_processing#readme"
+}
