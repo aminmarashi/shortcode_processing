@@ -1,0 +1,107 @@
+msgid "Win payout [amount] [currency] if the last tick of [underlying] is strictly higher than the average of the [tick_count] ticks."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if the last tick of [underlying] is strictly lower than the average of the [tick_count] ticks."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] after [tick_count] ticks is strictly higher than [entry_spot]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] is strictly higher than [entry_spot] at [duration] after [date_start]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] is strictly higher than [entry_spot] at [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] is strictly higher than [entry_spot] at [duration] after contract start time."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if last digit of [underlying] is not [barrier] after [tick_count] ticks."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if last digit of [underlying] is even after [tick_count] ticks."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if last digit of [underlying] is [barrier] after [tick_count] ticks."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if last digit of [underlying] is odd after [tick_count] ticks."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if last digit of [underlying] is higher than [barrier] after [tick_count] ticks."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if last digit of [underlying] is lower than [barrier] after [tick_count] ticks."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] ends outside [low_barrier_str] to [high_barrier_str] at close on [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] ends outside [low_barrier_str] to [high_barrier_str] at [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] ends outside [low_barrier_str] to [high_barrier_str] at [duration] after contract start time."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] ends strictly between [low_barrier_str] to [high_barrier_str] at close on [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] ends strictly between [low_barrier_str] to [high_barrier_str] at [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] ends strictly between [low_barrier_str] to [high_barrier_str] at [duration] after contract start time."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] does not touch [entry_spot] through close on [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] does not touch [entry_spot] through [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] does not touch [entry_spot] through [duration] after contract start time."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] touches [entry_spot] through close on [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] touches [entry_spot] through [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] touches [entry_spot] through [duration] after contract start time."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] after [tick_count] ticks is strictly lower than [entry_spot]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] is strictly lower than [entry_spot] at [duration] after [date_start]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] is strictly lower than [entry_spot] at [date_expiry]."
+msgstr ""
+
+msgid "Win payout [amount] [currency] if [underlying] is strictly lower than [entry_spot] at [duration] after contract start time."
+msgstr ""
+
+msgid "[n] day"
+msgid_plural "[n] days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "[n] hour"
+msgid_plural "[n] hours"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "[n] minute"
+msgid_plural "[n] minutes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "[n] second"
+msgid_plural "[n] seconds"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
